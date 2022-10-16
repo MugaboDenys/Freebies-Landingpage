@@ -1,2 +1,2 @@
 # Freebies-Landingpage
-# Link: ``https://freebies-landinigpage-35fdec.netlify.app/``
+# Link: ``https://freesbies-d054e0.netlify.app/``
